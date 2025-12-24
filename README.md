@@ -11,7 +11,7 @@ Notebook réalisé dans le cadre du projet OpenClassrooms **“Intégrez les rè
 
 ## Contenu du repo
 - `Outil_IA_analyse_de_sentiment.ipynb` : notebook complet (exécution + commentaires + exports).
-- `avis_clients.csv` (optionnel) : dataset simulé (à ne pas publier si données sensibles / PII).
+- `avis_clients.csv` (optionnel) : dataset simulé (à ne pas publier si données sensibles / Personally Identifiable Information PII).
 - `avis_echantillon_avec_sentiment.csv` : export d’échantillon enrichi (facultatif).
 
 > Recommandation : éviter de versionner des données contenant de la PII. Préférer un dataset anonymisé ou un échantillon réduit sans identifiants.
