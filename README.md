@@ -1,2 +1,2 @@
 # ArtisanConnect---RGPD-Dataset-
-Notebook pour l'analyse de sentiments avec Mistral AI
+Notebook Google Colab pour l'analyse de sentiments avec Mistral AI
